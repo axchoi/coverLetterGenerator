@@ -30,7 +30,9 @@ Enjoy and good luck at job searching.
 
 
 
-
+- Future To Do
+- Planning on making a nice GUI so you don't have to input it into the terminal
+- Also planning on making this into an APP so it's more user friendly
 
 
 
